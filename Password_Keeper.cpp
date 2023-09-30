@@ -1,3 +1,16 @@
+/********************************************************
+PROJECT: Password Keeper Program (Fortrex)
+Description: A C++ Program that allows user to store their account passwords using binary file. The user can choose to search accounts, add accounts, remove accounts, and reset the program to factory settings.
+
+IMPLEMENTED:
+    - Vectors and Lists
+    - Binary Filestream
+    - Iterators
+    - Classes and Structs
+    - Simple Interactive Terminal GUI
+
+Created by: Maxine Nicole B. Bernales
+*********************************************************/
 #include <iostream>
 #include <fstream>
 #include <ctime>
